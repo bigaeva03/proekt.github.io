@@ -1,0 +1,24 @@
+C:\Users\Милана\source\repos\test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe.config
+C:\Users\Милана\source\repos\test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe
+C:\Users\Милана\source\repos\test_DataBase\test_DataBase\bin\Debug\test_DataBase.pdb
+C:\Users\Милана\source\repos\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.AssemblyReference.cache
+C:\Users\Милана\source\repos\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Properties.Resources.resources
+C:\Users\Милана\source\repos\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.GenerateResource.cache
+C:\Users\Милана\source\repos\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Милана\source\repos\test_DataBase\test_DataBase\obj\Debug\test_DataBase.exe
+C:\Users\Милана\source\repos\test_DataBase\test_DataBase\obj\Debug\test_DataBase.pdb
+C:\Users\Милана\source\repos\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form1.resources
+C:\Users\Милана\source\repos\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Add_Form.resources
+C:\Users\Милана\source\repos\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Avtorization.resources
+C:\Users\Милана\Desktop\Новая папка\test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe.config
+C:\Users\Милана\Desktop\Новая папка\test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe
+C:\Users\Милана\Desktop\Новая папка\test_DataBase\test_DataBase\bin\Debug\test_DataBase.pdb
+C:\Users\Милана\Desktop\Новая папка\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.AssemblyReference.cache
+C:\Users\Милана\Desktop\Новая папка\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Add_Form.resources
+C:\Users\Милана\Desktop\Новая папка\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Avtorization.resources
+C:\Users\Милана\Desktop\Новая папка\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form1.resources
+C:\Users\Милана\Desktop\Новая папка\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Properties.Resources.resources
+C:\Users\Милана\Desktop\Новая папка\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.GenerateResource.cache
+C:\Users\Милана\Desktop\Новая папка\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Милана\Desktop\Новая папка\test_DataBase\test_DataBase\obj\Debug\test_DataBase.exe
+C:\Users\Милана\Desktop\Новая папка\test_DataBase\test_DataBase\obj\Debug\test_DataBase.pdb
